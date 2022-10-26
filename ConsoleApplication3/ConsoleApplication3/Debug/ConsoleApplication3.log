@@ -1,0 +1,4 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\user\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(13,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(23,20): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication3.vcxproj -> C:\Users\user\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
